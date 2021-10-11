@@ -28,12 +28,18 @@
 
 ------------
 
-##Social
+## Social
+
 <a href="https://github.com/kornatskyi" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://linkedin.com/in/bohdan-kornatskyi" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;"  />
 </a>
+
+</br>
+</br>
+
+## My stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kornatskyi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
